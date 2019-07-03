@@ -38,6 +38,6 @@
   text-decoration: none;
   display: block;
 }
-.dropdown-content a:hover {background-color: #00ff00;}
+.dropdown-content a:hover {background-color: #00ffff;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #777BD4;}
